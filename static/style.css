@@ -1,0 +1,128 @@
+.li {
+    display: inline
+    margin-right 89px;
+}
+.kit-img{
+    margin-left:3px;
+    width: 287.94px;
+    height: 289px;
+    left: 403px;
+    top: 264px;
+}
+.kitafrica-img{
+    margin-left:33px;
+    width: 247.94px;
+    height: 259px;
+    top: 284px;
+
+}
+.kitgeorgia-img{
+    margin-left:3px;
+    width: 267.94px;
+    height: 289px;
+    left: 403px;
+    top: 264px;
+}
+
+.newzeland{
+    margin-left:150px;
+    float: left;
+width: 300px;
+height: 455px;
+border: 1px solid black;
+}
+.georgiakit{
+    margin-left: 220px;
+    float:left;
+width: 280px;
+height: 455px;
+border: 1px solid black;
+}
+.africa{
+    margin-left:220px;
+    float: left;
+width: 300px;
+height: 455px;
+border: 1px solid black;
+}
+.boxnz{
+    border: 1px solid black;
+    position: absolute;
+    width: 118px;
+    height: 30px;
+    left: 342px;
+    top: 607px;
+    }
+    .boxsa{
+        border: 1px solid black;
+    position: absolute;
+    width: 118px;
+    height: 30px;
+    left: 867px;
+    top: 607px;
+    }
+    .boxge{
+        border: 1px solid black;
+        position: absolute;
+        width: 118px;
+        height: 30px;
+        left: 1370px;
+        top: 607px;
+    }
+    .see1{
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    margin-left: 19px;
+    margin-top: 3px;
+    
+    }
+    .see2{font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    margin-left: 19px;
+    margin-top: 3px;
+    }
+    .see3{font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+    margin-left: 19px;
+    margin-top: 3px;}
+
+.home{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 550px;
+    line-height: 27px;
+ font-weight: 500px;
+ text-decoration: none;
+}
+.contact{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+        margin-left: 150px;
+        
+}
+.aboutus{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 150px;
+}
+.forma{
+    display: inline;
+}
+.h2sa{ font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+margin-left: 4px;
+}
+.nz{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+margin-left: 4px;
+}
+.geo{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+margin-left: 4px;
+}
+.p{font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+margin-left: 7px;
+}

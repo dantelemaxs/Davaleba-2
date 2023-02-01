@@ -1,0 +1,54 @@
+.home{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 550px;
+    line-height: 27px;
+ font-weight: 500px;
+ text-decoration: none;
+}
+.contact{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+        margin-left: 150px;
+        
+}
+.aboutus{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 150px;}
+    .h1{ 
+        text-align: center;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 38px;
+    }
+    .h2{
+        margin-left: 300px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+
+    }
+    .gmail{
+        margin-left: 300px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+
+
+    }
+    .h21{
+        margin-left: 300px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+    }
